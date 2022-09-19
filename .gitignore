@@ -1,4 +1,3 @@
-venv
-data
-out
-results
+*/*
+#main.ipynb
+!main.ipynb
